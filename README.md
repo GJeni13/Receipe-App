@@ -20,8 +20,8 @@ A CRUD application for managing recipes built with Node.js, Express.js, and Mong
 4. Run the app: `npm run dev`
 
 ## API Endpoints
-- `POST /api/recipes` - Create a new recipe
-- `GET /api/recipes` - Retrieve all recipes
-- `GET /api/recipes/:id` - Retrieve a recipe by ID
-- `PUT /api/recipes/:id` - Update a recipe by ID
-- `DELETE /api/recipes/:id` - Delete a recipe by ID
+- `POST /recipes` - Create a new recipe
+- `GET /recipes` - Retrieve all recipes
+- `GET /recipes/:id` - Retrieve a recipe by ID
+- `PUT /recipes/:id` - Update a recipe by ID
+- `DELETE /recipes/:id` - Delete a recipe by ID
